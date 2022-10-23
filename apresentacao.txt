@@ -1,0 +1,4 @@
+Olá, meu nome é vinicius
+Sou estudante
+Tenho 22 anos
+Espero me encontrar na programação através da DoDev
